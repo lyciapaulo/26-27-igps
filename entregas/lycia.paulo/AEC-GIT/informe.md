@@ -51,3 +51,15 @@ Durante el proceso tuve un problema de autenticación (error 403) porque el orde
 ### Historial de commits (git log)
 
 ![Historial de commits](capturas/captura-02-git-log.png)
+
+### Detalle de los commits de la rama (git log --stat)
+
+![Detalle de los commits](capturas/captura-07-log-stat.png)
+
+### Subida de la rama docs/modificaciones a mi fork
+
+![Push de la rama](capturas/captura-05-push-rama.png)
+
+### Merge en main y subida de main
+
+![Merge y push de main](capturas/captura-06-merge-main.png)
