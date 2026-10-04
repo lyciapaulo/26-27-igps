@@ -27,3 +27,9 @@ Al principio el push fue rechazado (error 403) porque el ordenador tenía guarda
 ### Paso 4: Trabajar en una rama nueva
 
 Creé la rama `docs/modificaciones` con `git checkout -b docs/modificaciones`. En esta rama edité `informe.md` y realicé varios commits descriptivos.
+
+## Conclusiones
+
+Con esta actividad he practicado el flujo completo de trabajo con Git y GitHub: hacer un fork, clonarlo, crear una estructura de carpetas, trabajar en una rama nueva con varios commits descriptivos, combinarla con la rama principal y enviar una Pull Request al repositorio original del docente.
+
+Durante el proceso tuve un problema de autenticación (error 403) porque el ordenador tenía guardadas las credenciales de otra cuenta. Lo resolví borrando las credenciales guardadas y usando un token de acceso personal. Esto me ha enseñado a revisar con qué cuenta estoy trabajando antes de subir cambios.
